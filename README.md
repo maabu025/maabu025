@@ -23,7 +23,7 @@
 | [Rate & Win](https://github.com/maabu025/Rate-and-Win) | Customer feedback & loyalty web platform | HTML, SASS, JS, jQuery, Firebase |
 | [Notes App](https://github.com/maabu025/Notes-App) | CRUD notes app with Firebase authentication | Flutter, Firestore |
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF79C6&width=435&lines=Software+Engineer+%7C+Full+Stack+Developer;Flutter+%26+Web+Developer;Tech+for+Impact+Enthusiast)](https://git.io/typing-svg)
- [Sumbo](https://github.com/maabu025/sumbo) | Social impact web app promoting community connections and giving | Django, Python, HTML, CSS |
+ [Sumbo](https://github.com/maabu025/MYSUMBO) | Social impact web app promoting community connections and giving | Django, Python, HTML, CSS |
 | [Safeboda_Rwanda](https://github.com/maabu025/safeboda_rwanda) | Backend service implementing internationalization (i18n) & Redis caching | Django, Redis, PostgreSQL |
 
 
