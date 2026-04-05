@@ -46,9 +46,9 @@
 ---
 
 ###  Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn)](https://linkedin.com/in/mariam-abu)  
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:mariamabu025@gmail.com)
+[![LinkedIn] www.linkedin.com/in/mariam-abu
+[![Email] m.abu@alustudent.com
 
 ---
 
-✨ _"Building technology for a sustainable and inclusive Africa."_ ✨
+"Building technology for a sustainable and inclusive Africa."
